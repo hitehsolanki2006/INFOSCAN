@@ -38,7 +38,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/hitehsolanki2006/INFOSCAN
+git clone https://github.com/hitehsolanki2006/INFOSCAN.git
 cd INFOSCAN
 
 # Install dependencies
